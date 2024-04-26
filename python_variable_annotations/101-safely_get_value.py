@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Type-annotated function safely_get_value that returns the value of a key
 in a dictionary."""
 from typing import Union, Any, TypeVar, Mapping

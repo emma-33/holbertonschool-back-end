@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """zoom_array module"""
 from typing import Tuple, List
 

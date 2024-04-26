@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Type-annotated function safe_first_element that takes a list lst of
 any type elements and returns the first element of the list."""
 from typing import Optional, Any, Sequence
