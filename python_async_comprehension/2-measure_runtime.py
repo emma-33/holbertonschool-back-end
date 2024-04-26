@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Defines a coroutine called measure_runtime that
 measures the total runtime"""
 import asyncio
