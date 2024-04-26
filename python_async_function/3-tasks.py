@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Defines a function task_wait_random that takes an int max_delay and returns
 a asyncio.Task"""
 
