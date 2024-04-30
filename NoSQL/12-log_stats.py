@@ -11,7 +11,7 @@ def log_stats():
     methods = ["GET", "POST", "PUT", "PATCH", "DELETE"]
 
     print("{} logs".format(nginx.count_documents({})))
-    print("Methods: ")
+    print("Methods:")
 
     for method in methods:
         print("\tmethod {}: {}".format(method, nginx.count_documents
