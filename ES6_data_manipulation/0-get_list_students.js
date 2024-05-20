@@ -4,7 +4,7 @@ export default function getListStudents() {
   students.push({
     id: 1,
     firstName: 'Guillaume',
-    location: 'San Fransisco',
+    location: 'San Francisco',
   });
 
   students.push({
@@ -16,7 +16,7 @@ export default function getListStudents() {
   students.push({
     id: 5,
     firstName: 'Serena',
-    location: 'San Fransisco',
+    location: 'San Francisco',
   });
 
   return students;
